@@ -1,5 +1,5 @@
 N, K = map(int, input().split())
-student = [0] * 12
+student = [0] * 13
 room = 0
 
 for _ in range(N):
